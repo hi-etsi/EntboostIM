@@ -1,0 +1,1462 @@
+[
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_person_group_select.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\person_group_select.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_right_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a4040.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\a4040.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_set_logon_service_addr.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\set_logon_service_addr.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_broadcast_detail.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_broadcast_detail.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_normal.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_hms_cancel.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\hms_cancel.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_tel_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_tel_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_tel_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_tel_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_143.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_143.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_loaddata.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_loaddata.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector_back.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\button_selector_back.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_name.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_name.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_app.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\default_app.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_green.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\add_green.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_user.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_context_menu_item_bg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\context_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_search.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\main_search.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a4041.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\a4041.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_middle_press.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_middle_press.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_full_image.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\full_image.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\back_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_default_user_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\default_user_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_home.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_home.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_tel.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_tel.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_08.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_08.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_member_select.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\member_select.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_red_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_red_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_left_right_line2.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_left_right_line2.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_group_icon_selector.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\group_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_logon_service_addr.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_set_logon_service_addr.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_select.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_member_select.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type2_opened.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type2_opened.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add_person.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_bg_default.jpg.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_mm_listitem3.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\mm_listitem3.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\fragment_message_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add_person.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_add_contact.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu_add_contact.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_default_user_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_default_user_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type1_opened.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type1_opened.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_chatting_item_msg_text_right.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_head_img.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_select_head_img.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_top.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\slide_top.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_141.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_141.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_message_head.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\message_head.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unloadimg.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\unloadimg.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_right.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_right.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_head_0.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\group_head_0.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_broadcast_message_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_broadcast_message_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entboost_logo.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\entboost_logo.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bar_edit_pressed.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_save.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_addr.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_addr.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_top_line1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_top_line1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_right_press.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_right_press.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_function_main.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_function_main.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_contact.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_search_contact.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_gridview_expression_item.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\gridview_expression_item.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_144.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_144.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_all_line1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\all_line1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_save.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_broadcast.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_broadcast.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_line_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_right_line_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_dialog_area.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\dialog_area.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_line_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_line_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_select_contact_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\select_contact_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_voice_f.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\chat_voice_f.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_notification_setting.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_notification_setting.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_left_right_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_left_right_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottombar.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottombar.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue_pressed1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue_pressed1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_left_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_left_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type2_closed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type2_closed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting1.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting1.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_fragment_function.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\fragment_function.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_w_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_w_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_right_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_right_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_head_1.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\group_head_1.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_home.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_home.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_editbox.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\editbox.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_name_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_contact_name_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_top_right_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_top_right_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_file_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_pwd.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_forbid_minutes_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_forbid_minutes_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_w.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_w.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_left_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_left_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_169.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_169.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_line_green.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_line_green.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_add_contact.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\add_contact.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_area_layout.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\area_layout.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_zipcode_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_zipcode_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_contact_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\f2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ui62new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ui62new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_expanded.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\indicator_expanded.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type9_opened.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type9_opened.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_entboost_logo.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-ldpi\\entboost_logo.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_funcinfo.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_funcinfo.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keyword.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\keyword.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_shape_bottom_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\shape_bottom_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_fax.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_fax.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_right_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_right_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add_group.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ic_action_add_group.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_tab_bg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue_normal1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue_normal1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_middle.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_middle.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_20.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_20.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_chat.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_chat.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_add_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\chat_add_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_05.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_05.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notify.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\notify.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_select_head_img.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\select_head_img.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_forbid_minutes.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_forbid_minutes.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_call.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_call.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_head_2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\group_head_2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_security_setting.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_security_setting.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_list_pop.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_list_pop.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_94.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_94.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_add_tempgroup.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu_add_tempgroup.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_line1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_line1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_huawei_resolve_error.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_huawei_resolve_error.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_tel_activity.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_tel_activity.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_member_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_circleradio.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\circleradio.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_contact.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting6.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting6.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_line_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_line_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_left.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_left.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_account.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\account.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_dialog_exit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green_pressed1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green_pressed1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_middle_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_middle_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_person_group_select.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_person_group_select.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bar_bg.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\search_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_left_right_line1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_left_right_line1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_email_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_email_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu1.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu1.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_btn_normal.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\add_btn_normal.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_add_contact.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_add_contact.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_broadcast_detail.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\broadcast_detail.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type0_opened.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type0_opened.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_email.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_email.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add_group.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_add_group.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_persongroup_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_persongroup_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu1_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu1_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_call_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_call_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item2_list_pop.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item2_list_pop.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ui63new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ui63new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_left.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_left.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ui62new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ui62new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\anim_loading_animation.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f1.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\f1.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu3_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu3_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clear.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\clear.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_fax.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_fax.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\voice2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_contact_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_contact_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_19.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_19.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_left_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_left_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_call_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\call_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_chat.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_chat.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_subid_1002300102.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\subid_1002300102.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_person_group_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\person_group_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_contact_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_45.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_45.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_081.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_081.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type0_closed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type0_closed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_f.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\back_f.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_red_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\red_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_app_ver.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\app_ver.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting4.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting4.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uimv_56.gif.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uimv_56.gif"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ui.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ui.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_61.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_61.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_chatting_item_msg_text_left.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_menu.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_file_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\file_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type9_closed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type9_closed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_mobile_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_mobile_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_entboost_logo.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\entboost_logo.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_w_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_w_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_popmenu.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_popmenu.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_menu1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_menu1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_context_menu_for_historymsg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\context_menu_for_historymsg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_line1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_line1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_closed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_closed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_department_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_department_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pwd.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\pwd.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting5.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting5.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_url_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_url_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_contact_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_select_contact_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_description.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_contact_description.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_selecteduser.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_selecteduser.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uimv_55.gif.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uimv_55.gif"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_add_btn.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\add_btn.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_member_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\member_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_tab_red_circle.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\tab_red_circle.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_loading_bg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\loading_bg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_list_pop.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\list_pop.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_voice_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\chat_voice_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_red_circle.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uiload.gif.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uiload.gif"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_subid_1002300104.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\subid_1002300104.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_popmenu.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\popmenu.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_error_icon.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\error_icon.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_bottom_left_right_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_bottom_left_right_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_contact_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_wheel_bg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_bg2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_bg2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_contact_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\contact_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_email.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_edit_group_email.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_left_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_left_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_user.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\default_user.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_text.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_text.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_55.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_55.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_delete.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ui63new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ui63new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_member_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_search_bar_edit_bg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\search_bar_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_message_head.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\message_head.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_middle.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_middle.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_left_press.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_left_press.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_loading_dialog.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_email_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_email_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_full_image.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_full_image.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu3.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu3.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_opened.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_opened.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_text_color_2.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_text_color_2.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_red.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_red.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ui62new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ui62new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ui63new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ui63new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_name.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_name.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tablayout_bg2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tablayout_bg2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_gridview_head_item.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\gridview_head_item.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_ver.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_app_ver.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add_group.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ic_action_add_group.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_url_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_url_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ui63new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-ldpi\\ui63new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_selectgroup.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_selectgroup.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue_normal.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue_normal.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree_type1_closed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tree_type1_closed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_addr_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_addr_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_group.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_group.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_group1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_group1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_mm_listitem.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_version.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_check_version.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_function_main.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\function_main.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_57.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_57.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector_chat_add.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\button_selector_chat_add.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_mm_listitem1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\mm_listitem1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_welcome.jpg.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_btn_pressed.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\add_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_mobile_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_mobile_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_line_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\top_right_line_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_description_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_description_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_friendbottombar.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\friendbottombar.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_left.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_left.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_add.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\main_add.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_all_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\all_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector_chat_voice.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\button_selector_chat_voice.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photo_bg.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\photo_bg.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting2.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting2.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_right_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_right_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_left.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_left.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_head_9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\group_head_9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_save.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_info_zipcode_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\info_zipcode_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_department_info.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_department_info.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_department_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\department_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add_person.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_mm_listitem2.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\mm_listitem2.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_chat_tip.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\chat_tip.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_user1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_user1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_addr_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_addr_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_error.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_green_normal1.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_green_normal1.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f3.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\f3.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_top_line.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\bottom_top_line.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_middle_focus.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_middle_focus.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_file.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_file.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_red_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_red_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_56.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_56.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friend_main.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\fragment_friend_main.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_hms_progress_bar.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\hms_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emotion.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\emotion.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\r.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_pressed.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\edit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_menu2.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_menu2.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uilogo.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uilogo.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu4.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu4.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_wheel_val.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_name_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_info_name_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_l.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\l.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ui65new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\ui65new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_onlie_chat_msg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_onlie_chat_msg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_person_group_edit.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_person_group_edit.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_msg_history.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_msg_history.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_blue.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_blue.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f4.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\f4.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_mid.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_mid.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_03.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_03.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_right.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_right.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uitb_140.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\uitb_140.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_onlie_chat_msg.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\onlie_chat_msg.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu4_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu4_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_open_icon.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\open_icon.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu2_n.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\menu2_n.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_broadcast_message_list.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\broadcast_message_list.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_selectbarbtn.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\selectbarbtn.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_blue_right.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_blue_right.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_activity_department.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\activity_department.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_dialog_bg.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\exit_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_entboost_logo.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-xhdpi\\entboost_logo.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_btn_style_right_pressed.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\btn_style_right_pressed.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bar_edit_normal.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_item_selectcontactgroup.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\layout\\item_selectcontactgroup.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notify.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\notify.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\menu_edit_group_addr.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\menu\\edit_group_addr.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_hms_download_dialog.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\layout\\hms_download_dialog.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ui62new.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-ldpi\\ui62new.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\layout_hms_update_dialog.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\layout\\hms_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_add_f.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\chat_add_f.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_titlebar.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\titlebar.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_white_right.xml.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable\\segment_radio_white_right.xml"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_holo.9.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting3.png.flat",
+        "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\src\\main\\res\\drawable-hdpi\\setting3.png"
+    }
+]

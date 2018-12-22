@@ -1,0 +1,87 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From EntboostIM:
+* proguard-project.txt
+From HMSSdk:
+* build.xml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In HMSSdk:
+* AndroidManifest.xml => hMSSdk\src\main\AndroidManifest.xml
+* assets\ => hMSSdk\src\main\assets
+* libs\hmssdk-product-support.jar => hMSSdk\libs\hmssdk-product-support.jar
+* res\ => hMSSdk\src\main\res\
+* src\ => hMSSdk\src\main\java
+In EntboostIM:
+* AndroidManifest.xml => entboostIM\src\main\AndroidManifest.xml
+* libs\android-logging-log4j-1.0.3.jar => entboostIM\libs\android-logging-log4j-1.0.3.jar
+* libs\commons-lang3-3.3.2.jar => entboostIM\libs\commons-lang3-3.3.2.jar
+* libs\entboost-sotp.jar => entboostIM\libs\entboost-sotp.jar
+* libs\entboost-utils.jar => entboostIM\libs\entboost-utils.jar
+* libs\entboost.jar => entboostIM\libs\entboost.jar
+* libs\log4j-1.2.15.jar => entboostIM\libs\log4j-1.2.15.jar
+* libs\MiPush_SDK_Client_3_2_2.jar => entboostIM\libs\MiPush_SDK_Client_3_2_2.jar
+* libs\org.apache.http.legacy.jar => entboostIM\libs\org.apache.http.legacy.jar
+* libs\universal-image-loader-1.9.4.jar => entboostIM\libs\universal-image-loader-1.9.4.jar
+* libs\xUtils-2.6.14.jar => entboostIM\libs\xUtils-2.6.14.jar
+* res\ => entboostIM\src\main\res\
+* src\ => entboostIM\src\main\java\
+* src\com\entboost\ui\utils\image\arrow.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\arrow.png
+* src\com\entboost\ui\utils\image\crop_big.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\crop_big.png
+* src\com\entboost\ui\utils\image\crop_small.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\crop_small.png
+* src\com\entboost\ui\utils\image\defaultpic.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\defaultpic.png
+* src\com\entboost\ui\utils\image\error.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\error.png
+* src\com\entboost\ui\utils\image\play_display.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\play_display.png
+* src\com\entboost\ui\utils\image\play_hide.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\play_hide.png
+* src\com\entboost\ui\utils\image\popmenu_bg.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\popmenu_bg.png
+* src\com\entboost\ui\utils\image\zoom-1.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\zoom-1.png
+* src\com\entboost\ui\utils\image\zoom_in.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\zoom_in.png
+* src\com\entboost\ui\utils\image\zoom_out.png => entboostIM\src\main\resources\com\entboost\ui\utils\image\zoom_out.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

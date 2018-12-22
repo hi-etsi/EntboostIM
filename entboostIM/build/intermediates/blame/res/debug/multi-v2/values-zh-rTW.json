@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,152,196,252,314,367,412,476,543,603,670,715,788,831,875,951",
+                        "endColumns": "42,53,43,55,61,52,44,63,66,59,66,44,72,42,43,75,53",
+                        "endOffsets": "93,147,191,247,309,362,407,471,538,598,665,710,783,826,870,946,1000"
+                    }
+                }
+            ]
+        }
+    ]
+}

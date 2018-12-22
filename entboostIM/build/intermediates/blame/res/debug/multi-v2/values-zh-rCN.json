@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,154,198,260,324,387,433,499,564,630,698,743,822,865,909,989",
+                        "endColumns": "42,55,43,61,63,62,45,65,64,65,67,44,78,42,43,79,53",
+                        "endOffsets": "93,149,193,255,319,382,428,494,559,625,693,738,817,860,904,984,1038"
+                    }
+                }
+            ]
+        }
+    ]
+}

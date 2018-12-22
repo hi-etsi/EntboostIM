@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EntboostIM.iml" filepath="$PROJECT_DIR$/EntboostIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entboostIM/entboostIM.iml" filepath="$PROJECT_DIR$/entboostIM/entboostIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hMSSdk/hMSSdk.iml" filepath="$PROJECT_DIR$/hMSSdk/hMSSdk.iml" />
+    </modules>
+  </component>
+</project>

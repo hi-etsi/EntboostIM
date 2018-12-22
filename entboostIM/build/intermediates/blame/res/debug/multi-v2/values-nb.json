@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git_stuff\\EntboostIM\\EntboostIM\\entboostIM\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "map": [
+                {
+                    "source": "E:\\git_stuff\\EntboostIM\\EntboostIM\\hMSSdk\\build\\intermediates\\packaged_res\\debug\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,170,218,301,392,462,507,610,717,805,903,955,1094,1147,1197,1357",
+                        "endColumns": "45,68,47,82,90,69,44,102,106,87,97,51,138,52,49,159,69",
+                        "endOffsets": "96,165,213,296,387,457,502,605,712,800,898,950,1089,1142,1192,1352,1422"
+                    }
+                }
+            ]
+        }
+    ]
+}
